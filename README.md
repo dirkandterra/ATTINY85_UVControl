@@ -29,3 +29,5 @@ Program Description:
 The top button starts the UV timer and the side button toggles between the "set time" mode and the "UV light" mode.   
 In the "set time mode", each top button press adds 30 sec to the time.  The top button led flashes once for every minute    
 and a quick blip if a 30 sec addition is made.  Default is seven minutes.
+
+For LEDs: (AMARS Black LED Lights Strip for Decoration, DC12V 24W 5050 SMD 2M/6.6FT 390nm-405nm), 54 LEDs were used and draw 500mA
