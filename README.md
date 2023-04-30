@@ -5,7 +5,7 @@ The attached code is to run on an ATTINY85, but there is a compiler directive th
 
 The ATTINY is programmed using Arduino as ISP.  Hook the wires up accordingly:
 
-Arduino====>Attiny====>Attiny85
+Arduino====>Attiny====>Attiny85 
 D10=======>RESET======>PIN1
 D11=======>MOS======>PIN5
 D12=======>MISO======>PIN6
