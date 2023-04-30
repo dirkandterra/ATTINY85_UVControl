@@ -24,3 +24,8 @@ Device: ATTINY25/45/85
 Internal Clk: 1MHZ
 Processor: ATTINY85
 Programmer: Arduino as ISP
+
+Program Description:    
+The top button starts the UV timer and the side button toggles between the "set time" mode and the "UV light" mode.   
+In the "set time mode", each top button press adds 30 sec to the time.  The top button led flashes once for every minute    
+and a quick blip if a 30 sec addition is made.  Default is seven minutes.
